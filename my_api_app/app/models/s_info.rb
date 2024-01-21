@@ -1,0 +1,2 @@
+class SInfo < ApplicationRecord
+end
